@@ -1,7 +1,7 @@
 # Intel-NeuralChatV3-Mistral-MentalAssistant-PyschologistParodyLLM
 Hugging Face Dataset: https://huggingface.co/datasets/vibhorag101/phr_mental_therapy_dataset
 
-HuggingFace Model Finetuned:https://huggingface.co/Jaykumaran17/Intelv3-neuralchat-Viborag-MentalAssitant
+HuggingFace Model Finetuned:https://huggingface.co/Jaykumaran17/Intelv3-neuralchat-Pyschology-PHR-MentalAssitant
 
 Original Model:https://huggingface.co/typeof/neural-chat-7b-v3-1-sharded
 
